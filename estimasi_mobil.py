@@ -4,7 +4,8 @@ import streamlit as st
 model = pickle.load(open('estimasi_mobil.sav', 'rb'))
 
 st.title ('Estimasi Harga Mobil')
-year = st.number_input('input tahun mobil')
+model = st.number_input('input model mobil')
+year = st.number_input('input Lama Tahun mobil')
 mileage = st.number_input('input km mobil')
 tax = st.number_input('input pajak mobil')
 mpg = st.number_input('input mpg mobil')
@@ -15,6 +16,6 @@ predict = ''
 
 if st.button('Estimasti Harga') :
     predict = model.predict(
-        [[year,mileage,tax,mpg, engineSize]]
+        [[model,year,mileage,tax,mpg, engineSize]]
     )
     st.write('Estimasi Harga mobil dalam ponds : ', predict)
