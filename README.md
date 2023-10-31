@@ -45,8 +45,8 @@ dataset : https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-an
 
 
 ### Variable EDA
-heatmap ![image](https://github.com/rezaraditya/dataset/assets/60649124/e8992dae-e020-407a-859f-da508bafb083)
-<br>
+heatmap <br> ![image](https://github.com/rezaraditya/dataset/assets/60649124/e8992dae-e020-407a-859f-da508bafb083) <br>
+
 grafik ![image](https://github.com/rezaraditya/dataset/assets/60649124/24a26ccf-1e9b-480b-b8be-474e80b36243)
  
 
