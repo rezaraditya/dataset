@@ -40,6 +40,7 @@ dataset : https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-an
  7   mpg           : Jumlah Bahan Bakar yang digunakan ketika mobil bergerak (perliter ) 
  8   engineSize    : Ukuran Mesin 
 
+![image](https://github.com/rezaraditya/dataset/assets/60649124/e8992dae-e020-407a-859f-da508bafb083)
 
 
 ## Data Preparation
