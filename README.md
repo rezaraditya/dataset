@@ -131,7 +131,7 @@ pickle.dump(lr,open(filename,'wb'))
 
 
 ## Deployment
-https://dataset-hzeytbrghafkrmxgjfqt6n.streamlit.app/
+[https://dataset-hzeytbrghafkrmxgjfqt6n.streamlit.app/](https://dataset-rezaraditya.streamlit.app/)
 
 **---Ini adalah bagian akhir laporan---**
 
