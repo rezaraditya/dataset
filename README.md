@@ -31,14 +31,14 @@ dataset : https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-an
 
 ### Variabel-variabel pada used-car-dataset adalah sebagai berikut:
  
- 1   year          : Tahun Mobil  
- 2   price         : Harga Mobil 
- 3   transmission  : Transimi Mobil 
- 4   mileage       : Total jarak tempuh mobil yang telah dijalankan  
- 5   fuelType      : Tipe BBM
- 6   tax           : Jumlah Pajak  
- 7   mpg           : Jumlah Bahan Bakar yang digunakan ketika mobil bergerak (perliter ) 
- 8   engineSize    : Ukuran Mesin 
+ 1   year          : Tahun Mobil <br> 
+ 2   price         : Harga Mobil <br>
+ 3   transmission  : Transimi Mobil <br> 
+ 4   mileage       : Total jarak tempuh mobil yang telah dijalankan <br>  
+ 5   fuelType      : Tipe BBM <br>
+ 6   tax           : Jumlah Pajak <br> 
+ 7   mpg           : Jumlah Bahan Bakar yang digunakan ketika mobil bergerak (perliter ) <br> 
+ 8   engineSize    : Ukuran Mesin <br>
 
 
 
