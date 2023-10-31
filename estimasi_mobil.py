@@ -1,7 +1,7 @@
 import pickle
 import streamlit as st
 
-model = pickle.load(open('D:\machinelearning\estimasi_mobil.sav', 'rb'))
+model = pickle.load(open('estimasi_mobil.sav', 'rb'))
 
 st.title ('Estimasi Harga Mobil')
 year = st.number_input('input tahun mobil')
